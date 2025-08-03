@@ -127,7 +127,7 @@ python scripts/train.py --data_dir dataset --learning_rate 5e-4 --batch_size 32
 
 ### Inference
 
-```python
+\`\`\`python
 from scripts.utils import load_model, predict_colored_polygon
 
 # Load trained model
